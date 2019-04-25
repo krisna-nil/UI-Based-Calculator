@@ -1,1 +1,1 @@
-# this is my first repo
+this repo is basically python gui project
