@@ -1,1 +1,1 @@
-this repo is basically python gui project
+This repo is basically python gui project
